@@ -1,6 +1,6 @@
 # Click Me! App
 
-## API Installation
+## Backend Installation
 Assuming you already have the repo in your local.
 Run the following commands in your terminal.
 ```
